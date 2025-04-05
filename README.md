@@ -10,7 +10,7 @@ This is a GitHub Pages-ready version of the SeaPerch ROV simulator.
 4. Your simulator will be available at:
 
 ```
-https://your-username.github.io/your-repo-name/
+https://robonation.github.io/SeaPerch-Sim-Sandbox/
 ```
 
 ## 🧠 Notes
